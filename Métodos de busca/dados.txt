@@ -1,0 +1,70 @@
+Objetivo: Bucharest
+Inicio: Arad
+Cidades: 20
+Distancias Heuristica - Linha reta
+
+Arad: 366
+Bucharest: 0
+Craiova: 160
+Dobreta: 242
+Eforie: 161
+Fagaras: 178
+Giurgiu: 77
+Hirsovia: 151
+Iasi: 226
+Lugoj: 244
+Mehadia: 241
+Neamt: 234
+Oradea: 280
+Pitesti: 98
+Rimnicu Vilea: 194
+Sibiu: 253
+Timisoara: 329
+Urziceni: 80
+Vaslui: 199
+Zerind: 374
+
+Arad:Zerind:75
+Arad:Timisoara:118
+Arad:Sibiu:140
+Zerind:Arad:75
+Zerind:Oradea:71
+Timisoara:Arad:118
+Timisoara:Lugoj:111
+Sibiu:Arad:140
+Sibiu:Oradea:151
+Sibiu:Fagaras:99
+Sibiu:Rimnicu Vilea:80
+Oradea:Zerind:71
+Oradea:Sibiu:151
+Lugoj:Timisoara:111
+Lugoj:Mehadia:70
+Fagaras:Sibiu:99
+Fagaras:Bucharest:211
+Rimnicu Vilea:Pitesti:97
+Rimnicu Vilea:Craiova:146
+Mehadia:Lugoj:70
+Mehadia:Dobreta:75
+Bucharest:Fagaras:211
+Bucharest:Pitesti:101
+Bucharest:Giurgiu:90
+Bucharest:Urziceni:85
+Pitesti:Rimnicu Vilea:97
+Pitesti:Craiova:138
+Pitesti:Bucharest:101
+Dobreta:Mehadia:75
+Dobreta:Craiova:120
+Craiova:Dobreta:120
+Craiova:Rimnicu Vilea:146
+Craiova:Pitesti:138
+Giurgiu:Bucharest:90
+Urziceni:Bucharest:85
+Urziceni:Hirsovia:98
+Urziceni:Vaslui:142
+Hirsovia:Urziceni:98
+Hirsovia:Eforie:86
+Vaslui:Urziceni:142
+Vaslui:Iasi:92
+Iasi:Vaslui:92
+Iasi:Neamt:87
+Neamt:Iasi:87
